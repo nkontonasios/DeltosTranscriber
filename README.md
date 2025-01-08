@@ -21,8 +21,7 @@ scholarly research. As a case study, we consider the extraction of ship arrivals
 of captains, ports of origin, cargo, etc., from the regional newspaper "Le Sémaphore de Marseille" (1827-1944)
 whose daily issues are preserved as scanned images by the National Library of France (BnF). This data, existing
 in a specific "ARRIVALS" section in almost all newspaper issues, provides valuable insights into historical trade
-routes, economic patterns, and regional interactions. For historians, this data can illuminate aspects of global
-commerce and local economies that would otherwise remain obscured in the archives. The structured output of
+routes, economic patterns, and regional interactions. The structured output of
 this pipeline, a machine-readable CSV file, enables large-scale analysis, making it easier to study trends over time
 and across regions.
 
